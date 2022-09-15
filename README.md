@@ -1,5 +1,3 @@
-# Type The Alphabet - Minigame
-
 ## Description
 A simple minigame I created when I first started learning Python. I had bought a new keyboard and wanted to get used to it so after trying a few similar games on Google, I tried making something myself.
 
